@@ -10,5 +10,5 @@ scipy
 seaborn
 tenacity
 ipywidgets
-prophet==1.1.1
+prophet
 notebook
